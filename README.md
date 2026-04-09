@@ -1,0 +1,1 @@
+Blinkit is an Indian instant delivery service founded in December 2013 and headquartered in Gurgaon. It allows customers to order groceries and daily essentials through a mobile application, with deliveries fulfilled from nearby warehouses in as little as 10 minutes.
